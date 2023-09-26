@@ -1,3 +1,13 @@
+@use "./sections/navbar.scss";
+@use "./sections/jumbo.scss";
+@use "./sections/how.scss";
+@use "./sections/advantage.scss";
+@use "./sections/testimonial.scss";
+@use "./sections/sell.scss";
+@use "./sections/faq.scss";
+@use "./sections/purchases.scss";
+@use "./sections/footer.scss";
+
 /* Your styles go here */
 @import "bootstrap/scss/bootstrap.scss";
 @import "bootstrap-icons/font/bootstrap-icons.css";
