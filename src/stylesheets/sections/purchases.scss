@@ -1,12 +1,12 @@
 .purchases {
   width: 100%;
-  img {
-    width: 400px;
-    margin-left: 35%;
-    align-items: stretch;
-  }
+  background-color: purple;
   p {
     margin-left: 15%;
     margin-right: 15%;
+  }
+  .card {
+    background-color: rgb(33, 241, 33);
+    padding-top: 50px;
   }
 }
